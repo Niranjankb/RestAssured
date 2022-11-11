@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91809/.m2/repository/io/rest-assured/rest-assured/5.2.0/rest-assured-5.2.0.jar" sourcepath="C:/Users/91809/.m2/repository/io/rest-assured/rest-assured/5.2.0/rest-assured-5.2.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.rest-assured"/>
+			<attribute name="maven.artifactId" value="rest-assured"/>
+			<attribute name="maven.version" value="5.2.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/rest-assured-5.2.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/91809/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
